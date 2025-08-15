@@ -19,6 +19,7 @@ February 12th, 2025
 
 ## Code Tree
 
+```
 ├── README.md
 ├── data_analysis
 │   ├── eda_recs.py
@@ -59,6 +60,4 @@ February 12th, 2025
 │   └-─ recs_filtered_2020.csv
 │       ─└ best_results_1736562186.313877_random_forest.json
 └-- recs_metadata_2020.csv
-
-## Contact
-If you have any questions or need further clarification, please contact me at aditya.r.ramanathan@gmail.com or at the number 408-507-2201.
+```
